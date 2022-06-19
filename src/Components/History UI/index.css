@@ -1,0 +1,36 @@
+.hist-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 6px;
+}
+.img-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info{
+    line-height: 4px;
+    margin-left: 1rem;
+}
+.purp{
+    display: flex;
+    align-items: center;
+}
+.am-du{
+    display: flex;
+    align-items: center;
+}
+.addr{
+    font-size: 10px;
+}
+.brandImg{
+    width: auto;
+    height: 40px;
+}
+.dot{
+    margin: 0 7px;
+}
+.dur{
+    font-size: 10px;
+}

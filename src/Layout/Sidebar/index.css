@@ -1,0 +1,62 @@
+.sidebar-cont{
+    width: 15%;
+    height: 100vh;
+    background-color: #fff;
+    top: 0;
+    z-index: 999;
+    position: sticky;
+    bottom: 0;
+    box-shadow:  0 20px 25px 5px rgba(70, 69, 69, 0.1), 0 8px 10px 6px rgb(70, 69, 69, 0.1);
+}
+li{
+    font-size: 20px;
+    list-style-type: none;
+    margin: 1rem 0;
+}
+a{
+    text-decoration: none;
+    color: rgba(70, 69, 69, 0.76);
+}
+.bar-foot{
+    text-align: center;
+    font-size: 30px;
+    margin-top: -1rem;
+}    
+
+.logo{
+    text-align: center;
+    margin: 2rem 0;
+}
+.menus{
+    margin: 3rem 0;
+    text-align: center;  
+}
+.favourites{
+    text-align: left;
+    margin: 4rem 2rem;
+}
+.favourites > h4{
+    font-size: 14px;
+}
+.favourites > p{
+    font-size: 12px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    margin: 1rem 2rem; 
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+.menu > p{
+    margin: 0 15px;
+}
+.person{
+    width: 15px;
+}
+.active{
+    color: #fff;
+    background-color: #000;
+    font-weight: bold;
+}

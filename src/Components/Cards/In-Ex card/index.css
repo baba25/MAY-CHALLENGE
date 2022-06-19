@@ -1,0 +1,90 @@
+.Inex-cont{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+}
+.card1{
+    background-color: rgb(231, 215, 200);
+    width: 355px;
+    padding: 1rem;
+    margin-right: 1rem;
+    border-radius: 20px;
+}
+.card2{
+    background-color: rgb(135, 146, 241);
+    width: 355px;
+    padding: 1rem;
+    margin-left: 1rem;
+    border-radius: 20px;
+}
+.refInex-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top_text{
+    line-height: 4px;
+}
+.refInex-graph{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.graph-cont{
+    display: flex;
+    align-items: baseline;
+}
+.bar1{
+    width: 13px;
+    height: 16px;
+    background-color: #000;
+    margin: 0 4px;
+    border-radius: 3px;
+}
+.bar2{
+    width: 13px;
+    height: 40px;
+    background-color: rgb(224, 144, 22);
+    margin: 0 4px;
+    border-radius: 3px;
+}
+.bar3{
+    width: 13px;
+    height: 30px;
+    background-color: #000;
+    margin: 0 4px;
+    border-radius: 3px;
+}
+.bar4{
+    width: 13px;
+    height: 50px;
+    background-color: rgb(224, 144, 22);
+    margin: 0 4px;
+    border-radius: 3px;
+}
+.bar5{
+    width: 13px;
+    height: 36px;
+    background-color: rgb(224, 144, 22);
+    margin: 0 4px;
+    border-radius: 3px;
+}
+.bar6{
+    width: 13px;
+    height: 41px;
+    background-color: #000;
+    margin: 0 4px;
+    border-radius: 3px;
+}
+.bar7{
+    width: 13px;
+    height: 22px;
+    background-color: #000;
+    margin: 0 4px;
+    border-radius: 3px;
+}
+.graph-side{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

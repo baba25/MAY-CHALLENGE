@@ -1,0 +1,14 @@
+.ecard-cont{
+    background-color: rgb(208, 221, 238);
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+    width: 130px;
+    height: auto;
+    margin-right: 2rem;
+    border-radius: 20px;
+    line-height: 10px;
+}
+.ref-img{
+    margin-top: 2rem;
+}
